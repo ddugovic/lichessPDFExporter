@@ -1,4 +1,7 @@
 {
     "require": {
-    }
+    },
+    "name": "lichess/pdf-exporter",
+    "description": "Create print-friendly PDF copy of a game played on lichess",
+    "license": "MIT"
 }
